@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570346629228.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E025857D",
+    "lastKnownWriteTime" : 1570367064,
+    "last_content_update" : 1570674911684,
+    "path" : "E:/Blog/Shiny/Trip Planner Visualization/Trip_Visualization/Trip_visualization_f.R",
+    "project_path" : "Trip_visualization_f.R",
+    "properties" : {
+        "cursorPosition" : "181,0",
+        "scrollLine" : "163"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

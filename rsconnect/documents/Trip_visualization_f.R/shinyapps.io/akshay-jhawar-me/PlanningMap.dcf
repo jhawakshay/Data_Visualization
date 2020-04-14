@@ -1,0 +1,12 @@
+name: PlanningMap
+title: PlanningMap
+username:
+account: akshay-jhawar-me
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1291058
+bundleId: 2473449
+url: https://akshay-jhawar-me.shinyapps.io/PlanningMap/
+when: 1570367126.59514
+asMultiple: FALSE
+asStatic: FALSE

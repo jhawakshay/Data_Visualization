@@ -1,0 +1,7 @@
+install.packages("geosphere")
+require(geosphere)
+
+x1 <- c(as.numeric(final_loc[1,3]), as.numeric(final_loc[1,2]))
+y1 <- c(as.numeric(final_loc[2,3]), as.numeric(final_loc[2,2]))
+
+distm(x =x1, y = y1, fun = distHaversine)/1000
